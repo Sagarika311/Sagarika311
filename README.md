@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sagarikabhagat311@gmail.com**
 
-- 🔗 Checkout my Portfolio Website: **https://sagarika-portfoliowebsite.netlify.ap)**
+- 🔗 Checkout my Portfolio Website: **https://sagarika-portfoliowebsite.netlify.app**
 
 
 <h3 align="left">Connect with me:</h3>
