@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagarika-bhagat-0b6903221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarika-bhagat-0b6903221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sagarikabhagat311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarikabhagat311" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sagarikabhagat311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sagarikabhagat311" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagarika-bhagat-0b6903221" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sagarika311/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarika-bhagat-0b6903221" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sagarikabhagat311" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sagarika311/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarikabhagat311" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sagarikabhagat311" target="blank"><img align="center" src="https://raw.githubusercontent.com/Sagarika311/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sagarikabhagat311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
