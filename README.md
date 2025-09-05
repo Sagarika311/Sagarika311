@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarika311&label=Profile%20views&color=0e75b6&style=flat" alt="sagarika311" /> </p>
 
 
-### 🚀 About Me
 - 🔭 Currently working on **Music Recommendation System**  
 - 🌱 Learning **Scikit-learn, Microsoft CNTK, PyTorch**  
 - 👯 Looking to collaborate on **ASL Recognition with Deep Learning**  
