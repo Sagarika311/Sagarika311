@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate on **ASL Recognition with Deep Learning**  
 - 💬 Ask me about **Machine Learning & AI**  
 - 📫 Reach me at **sagarikabhagat311@gmail.com**  
-- 🔗 Portfolio: [sagarika-portfoliowebsite.netlify.app](https://sagarika-portfoliowebsite.netlify.app)  
+- 🔗 Portfolio: [**sagarika-portfoliowebsite.netlify.app**](https://sagarika-portfoliowebsite.netlify.app)  
 
 
 ### 🌐 Connect with me
