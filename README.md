@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagarika</h1>
+<h1 align="center">Hi, I'm Sagarika</h1>
 <h3 align="center">A passionate Web Developer dedicated to crafting responsive, user-friendly designs, while actively exploring the frontiers of AI and Machine Learning to build innovative digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarika311&label=Profile%20views&color=0e75b6&style=flat" alt="sagarika311" /> </p>
